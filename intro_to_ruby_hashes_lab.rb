@@ -18,7 +18,7 @@ end
 
 def id_generator
   # return a hash with a key :id assigned to positive integer
-  testhash = {id:"123"}
+  testhash = {id:123}
   return testhash
 end
 
